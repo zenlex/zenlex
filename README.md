@@ -10,7 +10,7 @@ In my free time I'm working on my software development and engineering skills. I
 
 
 ## Tech Interests
-I enjoy geeking out about just about anything, but my current top interests are:
+I enjoy geeking out about anything, but my current top interests are:
 - Data Visualization 
 - Front End Design / Development & UX
 - Back End Web Architecture
@@ -31,13 +31,16 @@ I enjoy geeking out about just about anything, but my current top interests are:
 - JavaScript(ES6)
 
 ## Current Projects:
-I'm currently working on Javascript skills, drilling fundamentals, and improving my overall front end WebDev toolkit. 
+I'm currently working on Javascript skills, drilling fundamentals, and improving my front end WebDev toolkit. 
 
 I'm implementing a self-learning curriculum designed with my skills honed from my time teaching in universities, and administered by applying my experience from my life as Production Manager(so many trello boards...). 
 
-I'm looking to collaborate on open source projects with entry level type needs and a community willing to exchange mentorship and knowledge for contribution. 
+I'm looking to collaborate on projects with a community that values mentorship. 
 
-I'm particularly interested in environmental/ecological issues, civic/social justice issues, access to education and public resources, and government efficiency and transparency. 
+I'm especially interested in work in the following areas: 
+ - environmental conservation
+ - access to education and public resources
+ - government efficiency and transparency
 
 Personal trivia:
 - Pronouns: he/him/his
