@@ -12,11 +12,11 @@ I'm particularly interested in environmental/ecological issues, civic/social jus
 
 Personal trivia:
 - Pronouns: he/him/his
-- Meyers-Briggs: INTJ
+- Meyers-Briggs: [INTJ](https://www.16personalities.com/intj-personality)
 - Dharma Name: Myozan (Wondrous Mountain)
 - Sidekick: Scout the Doggo (Border Collie Mix)
 - Recreational loves: Baseball, Climbing, Hiking, CrossFit
-- Character Alignment: Chaotic Good
+- Character Alignment: [Chaotic Good](https://mykindofmeeple.com/chaotic-good-alignment/)
 - zenlex (profile name) is a nickname that came from my time spent working for the Ohio Light Opera where my tall frame and shaved head led one of the veteran staffers to comment that I looked like Lex Luthor. I remarked that I was not an ambitious supervillain but rather a humble Zen Buddhist and thus the persona of Zen Lex was born. Theatre people are an interesting bunch. 
 
 
