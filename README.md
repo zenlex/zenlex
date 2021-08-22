@@ -13,6 +13,7 @@ I'm particularly interested in environmental/ecological issues, civic/social jus
 Personal trivia:
 - Pronouns: he/him/his
 - Meyers-Briggs: [INTJ](https://www.16personalities.com/intj-personality)
+- Enneagram - 8 - ['The Challenger'](https://www.enneagraminstitute.com/type-8) (w7 - 'The Maverick')
 - Dharma Name: Myozan (Wondrous Mountain)
 - Sidekick: Scout the Doggo (Border Collie Mix)
 - Recreational loves: Baseball, Climbing, Hiking, CrossFit
