@@ -1,4 +1,4 @@
-## Welcome to my humble code abode
+# Welcome to my Humble Code Abode 🙏
 
 I'm a Production Manager, Lighting Designer, and Sound Designer for the entertainment industry. I've had a long history with technology and interactivity. I'm currently the Director of Production for Tulsa Opera. I've also spent a significant amount of time working in higher education. In my free time I'm working on my developmnet and engineering skills. I'd like to take on contract work where I can around my current full time job and see where that goes. I enjoy geeking out about data visualization ,front end design/development, UX, back end architecture, project management and DevOps. I find great joy in taking things apart to figure out how they work, and the comprehension about systems that comes with that endeavor. 
 
@@ -18,6 +18,6 @@ Personal trivia:
 - Recreational loves: Baseball, Climbing, Hiking, CrossFit
 - Character Alignment: Chaotic Good
 - zenlex (profile name) is a nickname that came from my time spent working for the Ohio Light Opera where my tall frame and shaved head led one of the veteran staffers to comment that I looked like Lex Luthor. I remarked that I was not an ambitious supervillain but rather a humble Zen Buddhist and thus the persona of Zen Lex was born. Theatre people are an interesting bunch. 
-- 
+
 
 
