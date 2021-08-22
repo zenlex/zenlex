@@ -1,19 +1,25 @@
 # Welcome to my Humble Code Abode 🙏
 
-I'm a Production Manager, Lighting Designer, and Sound Designer for the entertainment industry. I've had a long history with technology and interactivity. I'm currently the Director of Production for Tulsa Opera. I've also spent a significant amount of time working in higher education. In my free time I'm working on my developmnet and engineering skills. I'd like to take on contract work where I can around my current full time job and see where that goes. I enjoy geeking out about data visualization ,front end design/development, UX, back end architecture, project management and DevOps. I find great joy in taking things apart to figure out how they work, and the comprehension about systems that comes with that endeavor. 
+I'm currently a Production Manager, Lighting Designer, and Sound Designer for the entertainment industry where I've been for most of my adulty life. I've had a long history with technology and interactivity. I've also spent a significant amount of time working in higher education. In my free time I'm working on my developmnet and engineering skills. I'd like to take on contract work where I'm able to around my current full time job and see where that leads. 
+
+I enjoy geeking out about data visualization ,front end design/development, UX, back end architecture, project management and DevOps. 
+
+I find great joy in taking things apart to figure out how they work, and the comprehension about systems and the people that interface with them that comes with that endeavor. 
 
 I am proficient in HTML/CSS/Vanilla JS and know a little React/Redux, Python, Django, and C. I've also done some C++ and Max/MSP for funky interactive art pieces with Arduino. 
 
 I'm currently learning more advanced Javascript skills, drilling fundamentals, and improving my overall front end webdev toolkit. 
-I love project management methodologies and apply my experience and skills on professional project to my own self development as well (so many trello boards...)
+I enjoy exploring project management methodologies and apply my experience and skills on professional projects to my own self development as well (so many trello boards...)
 
 I'm looking to collaborate on open source projects with some entry level type needs and a community willing to exchange mentorship and knowledge for contribution. 
-I'm particularly interested in environmental/ecological issues, civic/social justice issues, access to education and public resources, and games because who doesn't enjoy a good game. :)
+
+I'm particularly interested in environmental/ecological issues, civic/social justice issues, access to education and public resources, and government efficiency and transparency. 
 
 Personal trivia:
 - Pronouns: he/him/his
 - Meyers-Briggs: [INTJ](https://www.16personalities.com/intj-personality)
-- Enneagram - 8 - ['The Challenger'](https://www.enneagraminstitute.com/type-8) (w7 - 'The Maverick')
+- Enneagram - 8w7 - ['The Maverick'](https://www.enneagraminstitute.com/type-8) 
+- DISC - DC - ['The Challenger'](https://www.businessbacker.com/blog/word-maps-personality-types/?fbclid=IwAR1D6t1BkGqlnX9rWeKGWhxxsGFLtUPUAmJxIHukPpsUwqdboJomou8CK3M)
 - Dharma Name: Myozan (Wondrous Mountain)
 - Sidekick: Scout the Doggo (Border Collie Mix)
 - Recreational loves: Baseball, Climbing, Hiking, CrossFit
