@@ -2,9 +2,12 @@
 # Welcome to my Humble Code Abode 🙏
 
 ## About Me
-I'm currently a Production Manager, Lighting Designer, and Sound Designer for the entertainment industry. I've had a long history with technology and interactivity. I've also spent a significant amount of time working in higher education. In my free time I'm working on my software development and engineering skills. I'd like to start taking on contract work as my schedule and skills allow around my current full time job and see where that leads. 
+I'm currently a Production Manager, Lighting Designer, and Sound Designer for the entertainment industry. I've had a long history with technology and interactivity. I've also spent a significant amount of time working in higher education. 
 
-I enjoy taking things apart to figure out how they work, and the comprehension about systems and the people that interface with them that comes with that endeavor. 
+I enjoy taking things apart to figure out how they work.
+
+In my free time I'm working on my software development and engineering skills. I'd like to start taking on contract work as my schedule and skills allow and see where that leads. 
+
 
 ## Tech Interests
 I enjoy geeking out about just about anything, but my current top interests are:
@@ -28,10 +31,11 @@ I enjoy geeking out about just about anything, but my current top interests are:
 - JavaScript(ES6)
 
 ## Current Projects:
-I'm currently learning more advanced Javascript skills, drilling fundamentals, and improving my overall front end WebDev toolkit. 
-I'm implementing a self-learning curriculum designed with my curriculum development skills honed from my time teaching in universities, and administered by applying my skills and experience from my life as Production Manager(so many trello boards...). 
+I'm currently working on Javascript skills, drilling fundamentals, and improving my overall front end WebDev toolkit. 
 
-I'm looking to collaborate on open source projects with some entry level type needs and a community willing to exchange mentorship and knowledge for contribution. 
+I'm implementing a self-learning curriculum designed with my skills honed from my time teaching in universities, and administered by applying my experience from my life as Production Manager(so many trello boards...). 
+
+I'm looking to collaborate on open source projects with entry level type needs and a community willing to exchange mentorship and knowledge for contribution. 
 
 I'm particularly interested in environmental/ecological issues, civic/social justice issues, access to education and public resources, and government efficiency and transparency. 
 
