@@ -1,7 +1,7 @@
 !["zen garden"](https://github.com/zenlex/zenlex/blob/main/zen-garden-banner.jpg)
 # Welcome to my Humble Code Abode 🙏
 
-I'm currently a Production Manager, Lighting Designer, and Sound Designer for the entertainment industry where I've been for most of my adulty life. I've had a long history with technology and interactivity. I've also spent a significant amount of time working in higher education. In my free time I'm working on my developmnet and engineering skills. I'd like to take on contract work where I'm able to around my current full time job and see where that leads. 
+I'm currently a Production Manager, Lighting Designer, and Sound Designer for the entertainment industry where I've been for most of my adult life. I've had a long history with technology and interactivity. I've also spent a significant amount of time working in higher education. In my free time I'm working on my developmnet and engineering skills. I'd like to take on contract work where I'm able to around my current full time job and see where that leads. 
 
 I enjoy geeking out about data visualization ,front end design/development, UX, back end architecture, project management and DevOps. 
 
