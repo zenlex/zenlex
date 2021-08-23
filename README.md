@@ -49,7 +49,7 @@ Personal trivia:
 - DISC - DC - ['The Challenger'](https://www.businessbacker.com/blog/word-maps-personality-types/?fbclid=IwAR1D6t1BkGqlnX9rWeKGWhxxsGFLtUPUAmJxIHukPpsUwqdboJomou8CK3M)
 - Dharma Name: Myozan (Wondrous Mountain)
 - Sidekick: Scout the Doggo (Border Collie Mix)
-- Recreational loves: Baseball, Climbing, Hiking, CrossFit
+- R&R: Climbing, Hiking, CrossFit
 - Character Alignment: [Chaotic Good](https://mykindofmeeple.com/chaotic-good-alignment/)
 
 
