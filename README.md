@@ -20,11 +20,10 @@ I enjoy geeking out about anything, but my current top interests are:
 ## Language/Framework Skills:
 *Familiar:*
 - Python
--  Redux
 -  C
 -  C++ / Arduino
+-  Redux
 -  MAX/MSP
-
 
 *Proficient:*
 - React
