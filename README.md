@@ -2,43 +2,46 @@
 # Welcome to my Humble Code Abode 🙏
 
 ## About Me
-I'm currently a Production Manager, Lighting Designer, and Sound Designer for the entertainment industry. I've had a long history with technology and interactivity. I've also spent a significant amount of time working in higher education. 
+I'm currently a Designer and Production Manager in the entertainment industry and an aspiring developer.  I've also spent a significant amount of time teaching at the university level. 
 
-I enjoy taking things apart to figure out how they work.
+I've been involved with technology and interactivity for most of my life and enjoy taking things apart to figure out how they work.
 
-In my free time I'm working on my software development and engineering skills. I'd like to start taking on contract work as my schedule and skills allow and see where that leads. 
+I'm an excellent researcher and self-learner with an insatiable thirst for knoledge and understanding. 
 
 
 ## Tech Interests
 I enjoy geeking out about anything, but my current top interests are:
+
+- Fullstack Web Development
 - Data Visualization 
-- Front End Design / Development & UX
-- Back End Web Architecture
 - DevOps
 - Embedded Hardware
 
 ## Language/Framework Skills:
 *Familiar:*
 - Python
+-  Redux
 -  C
 -  C++ / Arduino
 -  MAX/MSP
--  React / Redux
+
 
 *Proficient:*
+- React
 - HTML5
 - CSS3
 - JavaScript(ES6)
 
 ## Current Projects:
-I'm currently working on Javascript skills, drilling fundamentals, and improving my front end WebDev toolkit. 
+I'm currently working on:
+- Polishing my Front End Web toolkit (Figma, React/JS, Advanced CSS)
+- D3 Data Visualization
+- Self-learning curriculum development and management via Trello
 
-I'm implementing a self-learning curriculum designed with my skills honed from my time teaching in universities, and administered by applying my experience from my life as Production Manager(so many trello boards...). 
-
-I'm looking to collaborate on projects with a community that values mentorship. 
+I'm looking to collaborate on projects with communities that value mentorship. 
 
 I'm especially interested in work in the following areas: 
- - environmental conservation
+ - environmental conservation and education
  - access to education and public resources
  - government efficiency and transparency
 
@@ -47,10 +50,6 @@ Personal trivia:
 - Meyers-Briggs: [INTJ](https://www.16personalities.com/intj-personality)
 - Enneagram - 8w7 - ['The Maverick'](https://www.enneagraminstitute.com/type-8) 
 - DISC - DC - ['The Challenger'](https://www.businessbacker.com/blog/word-maps-personality-types/?fbclid=IwAR1D6t1BkGqlnX9rWeKGWhxxsGFLtUPUAmJxIHukPpsUwqdboJomou8CK3M)
-- Dharma Name: Myozan (Wondrous Mountain)
-- Sidekick: Scout the Doggo (Border Collie Mix)
-- R&R: Climbing, Hiking, CrossFit
-- Character Alignment: [Chaotic Good](https://mykindofmeeple.com/chaotic-good-alignment/)
 
 
 
