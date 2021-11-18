@@ -10,7 +10,6 @@ I'm an excellent researcher and self-learner with an insatiable thirst for knole
 
 
 ## Tech Interests
-I enjoy geeking out about anything, but my current top interests are:
 
 - Fullstack Web Development
 - Data Visualization 
