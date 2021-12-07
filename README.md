@@ -17,28 +17,27 @@ I'm an excellent researcher and self-learner with an insatiable thirst for knole
 - Embedded Hardware
 
 ## Language/Framework Skills:
-*Familiar:*
-- Python
--  C
--  C++ / Arduino
--  Redux
--  MAX/MSP
-
 *Proficient:*
 - React
 - HTML5
 - CSS3
 - JavaScript(ES6)
 
+*Familiar:*
+- React
+- Python / Django
+- C++ / Arduino
+- Redux
+- MAX/MSP
+
+
+
 ## Current Projects:
 I'm currently working on:
-- Polishing my Front End Web toolkit (Figma, React/JS, Advanced CSS)
-- D3 Data Visualization
-- Self-learning curriculum development and management via Trello
+- Fullstack Web Development
+- D3.js Data Visualization
 
-I'm looking to collaborate on projects with communities that value mentorship. 
-
-I'm especially interested in work in the following areas: 
+I enjoy contributing in virtually every sector, but I'm especially interested in work in the following areas: 
  - environmental conservation and education
  - access to education and public resources
  - government efficiency and transparency
