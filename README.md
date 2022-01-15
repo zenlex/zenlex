@@ -14,28 +14,32 @@ I've been involved with technology and interactivity for most of my life and enj
 
 ## Language/Framework Skills:
 *Proficient:*
-- React
 - HTML5
 - CSS3
 - JavaScript(ES6)
+- React
+- Node.js
+- Express 
+- Git
 
 *Familiar:*
-- React
 - Python / Django
 - C++ / Arduino
 - Redux
+- REST APIs
 - MAX/MSP
-
-
+- TDD (Mocha/Chai or Jest)
+- Webpack 
 
 ## Current Projects:
 I'm currently working on:
-- Fullstack Web Development
-- D3.js Data Visualization
+- MettaBot - an app for spreading encouragement and kindness
+- Free Code Camp QA Certification Projects
+- Full Stack Open Curriculum
 
-I enjoy contributing in virtually every sector, but I'm especially interested in work in the following areas: 
+I'm especially interested in work in the following areas: 
  - environmental conservation and education
- - access to education and public resources
+ - access to education and other public resources(utilities, healthcare, transit, etc.)
  - government efficiency and transparency
 
 Personal trivia:
