@@ -2,7 +2,7 @@
 # Welcome to my Humble Code Abode 🙏
 
 ## About Me
-I've been involved with technology and interactivity for most of my life and enjoy taking things apart to figure out how they work. I'm an excellent researcher and self-learner with a passion for knowledge and understanding. I'm currently participating in a 'batch' at the [Recurse Center](https://www.recurse.com) to sharpen my coding skills and gain inspiration from a cohort of talented programmers. In my former life I was a Lighting and Sound Designer and Production Manager for Theatre, Opera, and Dance. I've also spent significant time teaching those subjects at the university level. 
+I've been involved with interactive technology for most of my life. I enjoy taking things apart to figure out how they work. I'm an excellent researcher and self-learner. I'm currently participating in a 'batch' at the [Recurse Center](https://www.recurse.com) to sharpen my skills and be inspired by a cohort of talented programmers. In my former life I was a Lighting and Sound Designer and Production Manager for Theatre, Opera, and Dance and an educator at the University level. 
 
 ## Languages & Tools
 <div>
