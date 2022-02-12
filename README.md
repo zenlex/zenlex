@@ -34,8 +34,9 @@ I've been involved with technology and interactivity for most of my life and enj
 
 ## Current Projects:
 I'm currently working on:
-- MettaBot - an app for spreading encouragement and kindness
+- MettaBot - an app for spreading kindness
 - Full Stack Open Curriculum
+- Design Patterns, Data Structures, and Algorithms
 
 I'm especially interested in work in the following areas: 
  - environmental conservation and education
