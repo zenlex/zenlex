@@ -1,23 +1,17 @@
 # Welcome to my Humble Code Abode 🙏
 
 ## About Me
-I've been involved with interactive technology for most of my life. I enjoy taking things apart to figure out how they work. I'm an excellent researcher and self-learner. I'm currently participating in a 'batch' at the [Recurse Center](https://www.recurse.com) to sharpen my skills and be inspired by a cohort of talented programmers. Previously I taught at Universities and worked as a Lighting and Sound Designer and Production Manager.
+I've been involved with interactive technology for most of my life. I enjoy taking things apart to figure out how they work. I'm an excellent researcher and self-learner. I'm currently participating in a 'batch' at the [Recurse Center](https://www.recurse.com) to sharpen my skills and be inspired by a cohort of talented programmers. Previously I taught at Universities and worked as a Lighting and Sound Designer and Production Manager. I'd love to work on projects related to environmental conservation, education, and access to public resources. 
 
 ## Current Projects:
 - MettaBot - an app for spreading kindness
 - Full Stack Open Curriculum
-- Design Patterns, Data Structures, and Algorithms
-
-## Interests: 
- - environmental conservation and education
- - access to education and other public resources(utilities, healthcare, transit, etc.)
- - government efficiency and transparency
+- Design Patterns, Data Structures, and Algorithms Study
 
 ## Personal Trivia:
 - Pronouns: he/him/his
 - Meyers-Briggs: [INTJ](https://www.16personalities.com/intj-personality)
 - Enneagram - 8w7 - ['The Maverick'](https://www.enneagraminstitute.com/type-8) 
-
 
 <h2 align="center">Languages & Tools</h2>
 <div align="center">
