@@ -1,4 +1,3 @@
-!["zen garden"](https://github.com/zenlex/zenlex/blob/main/zen-garden-banner.jpg)
 # Welcome to my Humble Code Abode 🙏
 
 ## About Me
