@@ -1,7 +1,7 @@
 # Welcome to my Humble Code Abode 🙏
 
 ## About Me
-I've been involved with interactive technology for most of my life. I enjoy taking things apart to figure out how they work. I'm an excellent researcher and self-learner. I'm currently participating in a 'batch' at the [Recurse Center](https://www.recurse.com) to sharpen my skills and be inspired by a cohort of talented programmers. Previously I taught at Universities and worked as a Lighting and Sound Designer and Production Manager. I'd love to work on projects related to environmental conservation, education, and access to public resources. 
+I've been involved with interactive technology for most of my life. I enjoy taking things apart to figure out how they work. I'm an excellent researcher and self-learner. I'm currently participating in a 'batch' at the [Recurse Center](https://www.recurse.com) to sharpen my skills and be inspired by a cohort of talented programmers. Previously I taught at Universities and worked as a [Lighting and Sound Designer](https://zenlex.github.io/theatreport) and Production Manager. I'd love to work on anything interesting. I am especially interested in environmental conservation, education, and access to essential resources (food, water, shelter, healthcare). 
 
 <h2>Languages & Tools</h2>
 <div>
