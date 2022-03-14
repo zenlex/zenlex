@@ -42,5 +42,5 @@ I've been involved with interactive technology for most of my life. I enjoy taki
 ## Personal Trivia:
 - Pronouns: he/him/his
 - Meyers-Briggs: [INTJ](https://www.16personalities.com/intj-personality)
-- Enneagram - 8w7 - ['The Maverick'](https://www.enneagraminstitute.com/type-8) 
+- Enneagram - [8w7](https://www.enneagraminstitute.com/type-8) 
 
