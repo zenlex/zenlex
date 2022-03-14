@@ -37,6 +37,7 @@ I've been involved with interactive technology for most of my life. I enjoy taki
 - MettaBot - an app for spreading kindness
 - Full Stack Open Curriculum
 - Design Patterns, Data Structures, and Algorithms Study
+- Code for Tulsa Website
 
 ## Personal Trivia:
 - Pronouns: he/him/his
