@@ -35,7 +35,7 @@ I've been involved with interactive technology for most of my life. I enjoy taki
 ## Highlighted Projects:
 - [Metric / Imperial Converter API](https://github.com/zenlex/fcc-metricimp) Node/Express/Jest/Mongo
 - [Issue Tracker API](https://github.com/zenlex/fcc-issuetracker) Node/Express/Jest/Mongo
-- [Country Info & Weather Serach](https://github.com/zenlex/fso-countries) React Client with Custom Hooks consuming public APIs
+- [Country Info & Weather Search](https://github.com/zenlex/fso-countries) React Client with Custom Hooks consuming public APIs
 - [MettaBot](https://github.com/zenlex/mettabot) - an app for spreading kindness(and drilling the fundamentals of a fullstack app sans frameworks)
 
 ## Current Learning / Personal Activities:
