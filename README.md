@@ -1,7 +1,7 @@
 # Welcome to my Humble Code Abode 🙏
 
 ## About Me
-I've been involved with interactive technology for most of my life. I enjoy taking things apart to figure out how they work. I'm an excellent researcher and self-learner. Previously I taught at Universities and worked as a [Lighting and Sound Designer](https://zenlex.github.io/theatreport) and Production Manager. I'd love to work on anything interesting, and with my curiosity that's most things. I am especially interested in environmental conservation, education, and access to essential resources (food, water, shelter, healthcare) and generally making the world a better place for all. 
+I've been involved with interactive technology for most of my life. I enjoy taking things apart to figure out how they work. I'm a naturally curious self-learner and motivated researcher. I've taught at universities and worked as a [Lighting and Sound Designer](https://zenlex.github.io/theatreport) and Production Manager. I am especially interested in environmental conservation, education, and generally making the world a better place for all. Currently I'm crafting code with an awesome team at [Clevyr](https://clevry.com). 
 
 <h2>Languages & Tools</h2>
 <div>
@@ -9,10 +9,10 @@ I've been involved with interactive technology for most of my life. I enjoy taki
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/css3-original.svg" alt="css3" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/javascript-original.svg" alt="javascript" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/react-original.svg" alt="react" width=50 height=50>
+ <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/redux-original.svg" alt="redux" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/nodejs-original.svg" alt="nodejs" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/express-original.svg" alt="express" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/mongodb-original.svg" alt="mongodb" width=50 height=50>
- <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/redux-original.svg" alt="redux" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/d3js-original.svg" alt="d3js" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/threejs-original.svg" alt="three js" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/gatsby-original.svg" alt="gatsby" width=50 height=50>
@@ -39,10 +39,9 @@ I've been involved with interactive technology for most of my life. I enjoy taki
 - [Issue Tracker API](https://github.com/zenlex/fcc-issuetracker) Node/Express/Jest/Mongo API
 
 
-## Current Learning / Personal Activities:
-- TypeScript
+## Current Working On:
 - Design Patterns & TDD
-- Code for Tulsa Website
+- Code for Tulsa Web App 
 
 ## Personal Trivia:
 - Pronouns: he/him/his
