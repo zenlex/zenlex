@@ -12,12 +12,12 @@ I've been involved with interactive technology for most of my life. I enjoy taki
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/php-original.svg" alt="php" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/vuejs-original.svg" alt="vuejs" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/laravel-plain.svg" alt="laravel" width=50 height=50>
+ <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/nodejs-original.svg" alt="nodejs" width=50 height=50>
+ <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/express-original.svg" alt="express" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/postgresql-original.svg" alt="laravel" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/mongodb-original.svg" alt="mongodb" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/react-original.svg" alt="react" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/redux-original.svg" alt="redux" width=50 height=50>
- <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/nodejs-original.svg" alt="nodejs" width=50 height=50>
- <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/express-original.svg" alt="express" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/d3js-original.svg" alt="d3js" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/threejs-original.svg" alt="three js" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/gatsby-original.svg" alt="gatsby" width=50 height=50>
