@@ -17,7 +17,6 @@ I've been involved with interactive technology for most of my life. I enjoy taki
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/threejs-original.svg" alt="three js" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/gatsby-original.svg" alt="gatsby" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/jest-plain.svg" alt="jest" width=50 height=50>
- <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/python-original.svg" alt="python" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/arduino-original.svg" alt="arduino" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/github-original.svg" alt="github" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/git-original.svg" alt="git" width=50 height=50>
@@ -25,7 +24,6 @@ I've been involved with interactive technology for most of my life. I enjoy taki
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/vim-original.svg" alt="vim" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/vscode-original.svg" alt="vs code" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/heroku-original.svg" alt="heroku" width=50 height=50>
- <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/webpack-original.svg" alt="webpack" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/figma-original.svg" alt="figma" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/photoshop-line.svg" alt="photoshop" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/illustrator-line.svg" alt="illustrator" width=50 height=50>
