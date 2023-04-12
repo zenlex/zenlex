@@ -39,7 +39,7 @@ I've been involved with interactive technology for most of my life. I enjoy taki
 - Learning Rust + WASM
 
 ## Community Involvement:
-- Code for Tulsa member and Website Project Lead
+- Tulsa Civic Tech Website Project Lead
 - Tulsa Web Devs User Group Co-Organizer
 - Techlahoma Foundation Member and Mentor
 
