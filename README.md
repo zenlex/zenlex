@@ -9,6 +9,7 @@ I've been involved with interactive technology for most of my life. I enjoy taki
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/css3-original.svg" alt="css3" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/javascript-original.svg" alt="javascript" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/typescript-original.svg" alt="typescript" width=50 height=50>
+ <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/rust-blk.svg" alt="typescript" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/php-original.svg" alt="php" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/vuejs-original.svg" alt="vuejs" width=50 height=50>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/laravel-plain.svg" alt="laravel" width=50 height=50>
