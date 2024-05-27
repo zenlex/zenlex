@@ -36,10 +36,10 @@ I've been involved with interactive technology for most of my life. I enjoy taki
 </div>
 
 ## Current Personal Projects / Topics of Interest:
-- [crustd](github.com/zenlex/crustd) - a Rust crate for speeding REST API / CRUD development
+- [crustd](https://www.github.com/zenlex/crustd) - a Rust crate for speeding REST API / CRUD development
 - TALL Stack - (Tailwind, Alpine, Laravel, Livewire) + Filament
 - Learning Rust + WASM using Leptos + Axum
-- [germinate](github.com/zenlex/germinate) - an app scaffolding CLI utility
+- [germinate](https://www.github.com/zenlex/germinate) - an app scaffolding CLI utility
 
 ## Community Involvement:
 - Tulsa Civic Tech Website Project Lead
