@@ -3,6 +3,8 @@
 ## About Me
 I've been involved with interactive technology for most of my life. I enjoy taking things apart to figure out how they work. I'm a naturally curious self-learner and motivated researcher. I've taught at universities and worked as a [Lighting and Sound Designer](https://zenlex.github.io/theatreport) and Production Manager. I am especially interested in environmental conservation, education, and generally making the world a better place for all. Currently I'm crafting code with an awesome team at [Clevyr](https://clevyr.com). 
 
+[![Zenlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenlex)](https://github.com/zenlex/github-readme-stats)
+
 <h2>Languages & Tools</h2>
 <div>
  <img src="https://raw.githubusercontent.com/zenlex/zenlex/main/icons/html5-original.svg" alt="html5" width=50 height=50>
