@@ -3,7 +3,6 @@
 ## About Me
 I've been involved with interactive technology for most of my life. I enjoy taking things apart to figure out how they work. I'm a naturally curious self-learner and motivated researcher. I've taught at universities and worked as a [Lighting and Sound Designer](https://zenlex.github.io/theatreport) and Production Manager. I am especially interested in environmental conservation, education, and generally making the world a better place for all. Currently I'm crafting code with an awesome team at [Clevyr](https://clevyr.com). 
 
-[![Zenlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenlex)](https://github.com/zenlex/github-readme-stats)
 
 <h2>Languages & Tools</h2>
 <div>
@@ -37,9 +36,10 @@ I've been involved with interactive technology for most of my life. I enjoy taki
 </div>
 
 ## Current Personal Projects / Topics of Interest:
-- Design Patterns 
-- Test Driven Development
-- Learning Rust + WASM
+- [crustd](github.com/zenlex/crustd) - a Rust crate for speeding REST API / CRUD development
+- TALL Stack - (Tailwind, Alpine, Laravel, Livewire) + Filament
+- Learning Rust + WASM using Leptos + Axum
+- [germinate](github.com/zenlex/germinate) - an app scaffolding CLI utility
 
 ## Community Involvement:
 - Tulsa Civic Tech Website Project Lead
@@ -49,4 +49,4 @@ I've been involved with interactive technology for most of my life. I enjoy taki
 ## Personal Trivia:
 - Pronouns: he/him/his
 - Meyers-Briggs: [INTJ](https://www.16personalities.com/intj-personality)
-- Enneagram - [8w7](https://www.enneagraminstitute.com/type-8) 
+- Enneagram - [8w7](https://www.enneagraminstitute.com/type-8)
