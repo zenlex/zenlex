@@ -37,16 +37,15 @@ I've been involved with interactive technology for most of my life. I enjoy taki
 
 ## Current Personal Projects / Topics of Interest:
 - [crustd](https://www.github.com/zenlex/crustd) - a Rust crate for speeding REST API / CRUD development
-- TALL Stack - (Tailwind, Alpine, Laravel, Livewire) + Filament
-- Learning Rust + WASM using Leptos + Axum
 - [germinate](https://www.github.com/zenlex/germinate) - an app scaffolding CLI utility
+- [tomaru](https://www.github.com/zenlex/tomaru) - a cross platform Pomodoro timer
 
 ## Community Involvement:
-- Tulsa Civic Tech Website Project Lead
 - Tulsa Web Devs User Group Co-Organizer
 - Techlahoma Foundation Member and Mentor
 
 ## Personal Trivia:
-- Pronouns: he/him/his
-- Meyers-Briggs: [INTJ](https://www.16personalities.com/intj-personality)
 - Enneagram - [8w7](https://www.enneagraminstitute.com/type-8)
+- Meyers-Briggs: [INTJ](https://www.16personalities.com/intj-personality)
+- Pronouns: he/him/his
+
